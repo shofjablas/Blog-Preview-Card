@@ -1,0 +1,24 @@
+@media (max-width: 375px) {
+  .container {
+    width: 100%;
+    height: auto;
+  }
+
+  .illustrationArticle {
+    margin: 22px;
+    width: 89%;
+  }
+
+  .imgName {
+    grid-template-columns: 1fr;
+    text-align: center;
+  }
+
+  .man {
+    margin-left: 0;
+  }
+
+  .name {
+    margin-left: 0;
+  }
+}

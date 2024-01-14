@@ -1,0 +1,87 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+
+  background-color: hsl(47, 88%, 63%);
+  font-family: "Figtree", sans-serif;
+}
+
+.container {
+  border: 1px solid hsl(0, 0%, 7%);
+  border-radius: 1.5rem;
+  width: 24rem;
+  height: 32rem;
+
+  background-color: hsl(0, 0%, 100%);
+  box-shadow: 20px 20px hsl(0, 0%, 7%);
+}
+
+.illustrationArticle {
+  margin: 22px;
+  border-radius: 0.8rem;
+}
+
+.learn {
+  margin: 22px;
+  background-color: hsl(47, 88%, 63%);
+  display: inline;
+  padding: 0.3rem 0.5rem 0.3rem 0.5rem;
+  border-radius: 0.2rem;
+  font-weight: 800;
+}
+
+.publishedDate {
+  margin: 22px;
+  font-weight: 600;
+}
+
+.foundations {
+  margin: 22px;
+}
+
+.foundations:hover,
+.foundations:active {
+  color: hsl(47, 88%, 63%);
+  transition: color 0.3s;
+  cursor: pointer;
+}
+
+.explanation {
+  margin: 22px;
+  color: hsl(0, 0%, 50%);
+}
+
+.imgName {
+  display: grid;
+  grid-template-columns: 1fr 4fr;
+  margin-bottom: 22px;
+}
+
+.man {
+  margin-left: 22px;
+  width: 30px;
+}
+
+.name {
+  font-weight: 800;
+  margin-top: 5px;
+  margin-left: -10px;
+}
+.attribution {
+  font-size: 11px;
+  text-align: center;
+  margin-top: 10px;
+  position: absolute;
+  bottom: 5px;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
