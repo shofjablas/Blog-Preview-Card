@@ -21,7 +21,7 @@ body {
   height: 32rem;
 
   background-color: hsl(0, 0%, 100%);
-  box-shadow: 20px 20px hsl(0, 0%, 7%);
+  box-shadow: 5px 5px hsl(0, 0%, 7%);
 }
 
 .illustrationArticle {
