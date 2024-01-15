@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/blogpreviewcard-02344DWaOo)
+- Live Site URL: [Add live site URL here](https://master--melodious-phoenix-585d83.netlify.app/)
 
 ## My process
 
@@ -59,12 +59,6 @@ To see how you can add code snippets, see below:
 }
 ```
 
-```js
-const proudOfThisFunc = () => {
-  console.log("🎉");
-};
-```
-
 If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
 
 **Note: Delete this note and the content within this section and replace with your own learnings.**
@@ -76,7 +70,5 @@ CSS Grid에 대해서 공부를 체계적으로 할 예정입니다.
 ## Author
 
 - Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
+- Frontend Mentor - [@yshofjablase](https://www.frontendmentor.io/profile/shofjablas)
+  **Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
