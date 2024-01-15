@@ -26,7 +26,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](C:\Users\yshis\Desktop\Blog-Prview-Card\blog-preview-card-완성본.png)
+![blog-preview-card-완성본](https://github.com/shofjablas/Blog-Prview-Card/assets/97035336/2b9f3975-c4ea-4e6e-a68c-a780eff7fbae)
+
 
 ### Links
 
